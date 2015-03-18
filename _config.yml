@@ -1,0 +1,13 @@
+# Site settings
+title: Online Cash Flow Management | 52cents
+email: info@52cents.com
+description: > # this means to ignore newlines until "baseurl:"
+  52cents is an online cash flow management system which simplifies 
+  tracking and management of your income and expense.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://52cents.com" # the base hostname & protocol for your site
+twitter_username: 52centsapp
+github_username:  hussainanjar
+
+# Build settings
+markdown: kramdown
